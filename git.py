@@ -15,3 +15,6 @@ print("===================================================")
 
 print("")
 print("the config file should be ignored")
+print("we added it to the gitignore")
+print("")
+print("SUCCES. When commiting and pushing, the config file is IGNORED")
