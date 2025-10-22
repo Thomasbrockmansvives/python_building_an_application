@@ -1,13 +1,13 @@
-# python_building_an_application
+# Python: Building an application
 repository for chapter 8 of Programming in Python about building an application
 
-# GOAL
+## GOAL
 to learn to use git and a virtual environment
 
-# FUNCTIONALITIES
+## FUNCTIONALITIES
 
-# HOW TO RUN
+## HOW TO RUN
 
-# EXAMPLE OF SETTINGS FILE
+## EXAMPLE OF SETTINGS FILE
 
-# DB STRUCTURE
+## DB STRUCTURE
